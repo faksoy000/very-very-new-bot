@@ -1,0 +1,11 @@
+{
+  "name": "ccwbot",
+  "version": "0.0.1",
+  "description": "CC&W BOT made by quit .#5802",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Furkan Aksoy",
+  "license": "ISC"
+}
